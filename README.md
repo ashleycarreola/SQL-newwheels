@@ -1,1 +1,2 @@
 # SQL-newwheels
+In the face of diminishing sales and heightened customer concerns, the WheelsRevive project leverages advanced data analytics to scrutinize essential feedback and sales data. The objective is to furnish the CEO with crucial insights, facilitating well-informed decision-making for a precise business revival. Through an exploration of customer sentiments and market dynamics, WheelsRevive endeavors to redefine New Wheels within the competitive vehicle resale landscape.
